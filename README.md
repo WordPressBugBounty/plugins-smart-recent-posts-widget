@@ -1,0 +1,1 @@
+# plugins-smart-recent-posts-widget
